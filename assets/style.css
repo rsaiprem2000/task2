@@ -1,0 +1,14 @@
+.header{
+    background-color: black;
+    color: white;
+
+    text-align: center;
+}
+hr{
+    height: 5px;
+    background-color: grey;
+}
+
+.bg-grey{
+    background-color: grey;
+}
